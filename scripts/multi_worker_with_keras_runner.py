@@ -2,8 +2,7 @@ import sys
 import os
 import threading
 
-
-node_str = sys.stdin.read().replace("\n","")
+#one line comment
 nodes = node_str.split(' ')
 first = True
 node_string = ""
